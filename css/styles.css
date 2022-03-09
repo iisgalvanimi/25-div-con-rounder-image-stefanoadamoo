@@ -1,7 +1,6 @@
 body {
   /* background-color: #004466;  */
   background-color: #001f2e;
- 
 }
 
 
@@ -9,8 +8,19 @@ body {
   text-align: center;         /* centra il contenuto*/
   margin:auto;             /* centra il div (wrapper) */
   background-color: #00334d;
+  padding-bottom: 10px;
+  padding-top: 5px;
+  border-radius: 10px 10px 10px 10px;
+  width: 900px;
+  height: 400px;
+  color: white;
 }
+
 
 #immagine {
   width: 30%;
+  border-radius: 60%;
+  border-style: double;
+  border-width: 4px;
+  border-color:aqua;
 }
